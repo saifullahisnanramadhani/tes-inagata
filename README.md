@@ -202,6 +202,6 @@ Link Video Demo:
 
 # 👤 Author
 
-Nama: Rama  
+Nama: Saifullah Isnan Ramadhani 
 Project: Tes Backend API Inagata  
 Repository: https://github.com/saifullahisnanramadhani/tes-inagata
