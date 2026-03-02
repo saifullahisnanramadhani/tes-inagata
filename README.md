@@ -7,7 +7,7 @@ Project ini merupakan implementasi REST API Blog menggunakan Laravel dengan aute
 ## 🚀 Tech Stack
 
 - PHP 8+
-- Laravel 10 / 11
+- Laravel 10
 - MySQL
 - JWT Authentication (tymon/jwt-auth)
 - Postman (API Testing)
