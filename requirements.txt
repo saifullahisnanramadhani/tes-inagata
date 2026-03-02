@@ -1,5 +1,5 @@
-PHP >= 8.2
-Laravel >= 10.50
-MariaDB >= 10.4
-Composer >=  2.7.6
-tymon/jwt-auth 2.2
+PHP versi 8.2
+Laravel versi 10.50
+MariaDB versi 10.4
+Composer versi 2.7.6
+tymon/jwt-auth versi 2.2
