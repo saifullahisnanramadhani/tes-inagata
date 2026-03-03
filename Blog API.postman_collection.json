@@ -396,6 +396,22 @@
         }
       },
       "response": []
+    },
+    {
+      "name": "ARTICLES / Content",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "ARTICLES /Rentang Tanggal",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
     }
   ]
 }
