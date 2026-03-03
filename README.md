@@ -188,7 +188,7 @@ Dokumentasi API tersedia dalam bentuk Postman Collection yang terdapat di reposi
 
 File:
 ```
-Blog-API-Postman-Collection.json
+Blog API.postman_collection.json
 ```
 
 ---
