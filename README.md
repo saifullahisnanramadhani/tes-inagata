@@ -196,7 +196,7 @@ Blog API.postman_collection.json
 # 🎥 Video Demo
 
 Link Video Demo:
-(isi link Google Drive / YouTube di sini)
+(https://youtu.be/TH70HYL3jVo?si=oxCVTvRqRP4CznqV)
 
 ---
 
